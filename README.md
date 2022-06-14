@@ -25,6 +25,9 @@ THEN I am taken to the corresponding section of the README
 ## Screenshots
 [Screencastify Video](https://drive.google.com/file/d/1HEynDCQzrT6B0wcpbshwqDI4Qcx08p5w/view)
 
+Screenshot of created README.md
+![created README.md file](images/screenshot-readme-file.jpg)
+
 ## Summary/Languages
 This project has been completed using NodeJS. The data was captured using the Inquirer package. 
 
